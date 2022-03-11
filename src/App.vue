@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>main修改的地方123 main2xiu</h1>
+    <h1>main修改的地方123 </h1>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
