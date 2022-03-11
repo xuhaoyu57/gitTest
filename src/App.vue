@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    123123132123
+    main修改
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
